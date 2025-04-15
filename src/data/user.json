@@ -1,0 +1,14 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "john.doe@example.com",
+  "phone_number": "+441234567890",
+  "address": {
+    "line1": "123 London Road",
+    "line2": "",
+    "city": "London",
+    "postcode": "NW1 6XE",
+    "country": "United Kingdom",
+    "region": "Greater London"
+  }
+}
